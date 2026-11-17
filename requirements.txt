@@ -1,0 +1,10 @@
+# Core scientific Python dependencies used by the analysis notebook
+numpy
+pandas
+matplotlib
+nibabel
+nilearn
+
+# Notebook environment
+jupyter
+ipykernel
